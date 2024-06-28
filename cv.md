@@ -23,7 +23,7 @@ __Discord:__ @samoylovarvara
 * __Figma:__ Skilled in designing and prototyping user interfaces.
 * __Adobe Photoshop:__ Proficient in editing and creating graphical assets.
 
-### Code Examples
+### Code Examples 💻
 
 ___
 `function capitalize(word) {
