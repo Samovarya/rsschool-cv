@@ -42,7 +42,7 @@ ___
 
 * __Saint Petersburg State University of Architecture and Civil Engineering__
 * __Current Courses:__
-    + [Welcome! | Learn JavaScript](https://learnjavascript.online) (in progress)
+    + [Learn JavaScript](https://learnjavascript.online) (in progress)
     + [Learn HTML CSS](https://learnhtmlcss.online) (in progress)
     + [Learn Programming](https://learnprogramming.online) (in progress)
     + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
