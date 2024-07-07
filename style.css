@@ -1,3 +1,224 @@
-nav {
-  
+body {
+    background-color: #E4EFFF;
+    background-image: url("assets/img/Background.png");
+    background-size: cover; 
+    background-position: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: #353C5C;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    width: 1160px;
+    height: 1107px;
+}
+.menu_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.left_container {
+    flex: 0 0 auto;
+    margin-right: 788px;
+}
+h1, h3 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+}
+.right_container {
+    flex: 0 0 auto;
+    display: flex;
+    gap: 35px;
+}
+.social_media_icon {
+    width: 24px;
+    height: 24px;
+    color: #353C5C;
+}
+.navigation_bar {
+    margin-top: 0px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 44px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
+.color_about_me {
+    color: #748C69;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_skills {
+    color: #FF9687;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_code_example {
+    color: #BCAFCF;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_education {
+    color: #E5C36B;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_work_experience {
+    color: #515B87;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_languages {
+    color: #E2552D;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+.color_contacts {
+    color: #9EB4D3;
+    opacity: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    line-height: 1;
+    margin-top: -14px;
+    margin-bottom: -14px;
+}
+li {
+    list-style: none;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.item_about_me {
+    margin-top: 40px;
+    display: flex;
+}
+.item_text {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    text-align: center;
+}
+.title_about_me {
+    color: #748C69;
+}
+.my_photo {
+    width: 150px;
+    height: 255px;
+}
+.item_skills_and_code_example {
+    display: flex;
+    justify-content: space-between;
+    width: 1160px;
+    height: 167px;
+    margin-bottom: 40px;
+}
+.item_skills {
+    text-align: center;
+    width: 560px;
+    height: 150px;
+}
+.title_skills {
+    color: #FF9687;
+}
+.item_code_example {
+    width: 260px;
+    height: 152px;
+    margin-right: 210px;
+    font-size: 14px;
+}
+.title_code_example {
+    color: #BCAFCF;
+    margin-left: 210px;
+    margin-right: 140px;
+    text-align: center;
+    white-space: nowrap;
+}
+.item_work_experience_and_education {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    width: 1160px;
+    height: 150px;
+}
+.item_work_experience {
+    text-align: center;
+    width: 260px;
+    height: 150px;
+}
+.titel_work_experience {
+    color: #515B87;
+}
+.item_education {
+    width: 560px;
+    height: 150px;
+}
+.title_education {
+    color: #E5C36B;
+    text-align: center;
+}
+.item_languages {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 560px;
+    height: 116px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.title_languages {
+    color: #E2552D;
+}
+.menu_footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.logo_btn {
+    width: 24px;
+    height: 24px;
 }
